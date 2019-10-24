@@ -1,0 +1,2 @@
+class JoinTableSpecialtyDoctor < ApplicationRecord
+end
